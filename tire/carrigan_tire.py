@@ -1,5 +1,5 @@
 from abc import ABC
-from tire import Tire
+from tire.tire import Tire
 
 
 class CarriganTire(Tire, ABC):
